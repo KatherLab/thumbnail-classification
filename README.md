@@ -3,3 +3,5 @@ This repository contains python scripts for classification of colorectal cancer 
 # installation
 # workflow
 # results
+# models
+The models used in our paper were trained on data from the FOXTROT trial containing the following classes of tissue: tumor resection, healthy tissue, lymph node, biopsy, fat, IHC & TMA. These models were shown to produce accurate classification results on multiple external cohorts. 
